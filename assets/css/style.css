@@ -1,0 +1,63 @@
+body {
+	background-image: url("../images/rockywall/rockywall/rockywall.png");
+}
+
+h1 {
+	background-color: orange;
+	color: white;
+	width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+    font-size: 2.5em; /* 40px/16=2.5em */
+    font-weight: bold;
+}
+
+.directions {
+	background-color: white;
+	color: green;
+	width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+    line-height: 1.25
+}
+
+.num {
+	background-color: pink;
+	color: green;
+	width: 150px;
+    border: 12px solid green;
+    padding: 12px;
+    margin: 12px;
+    display:inline-block;
+}
+
+.winslosses {
+	background-color: white;
+	color: green;
+	width: 150px;
+    border: 12px solid green;
+    padding: 12px;
+    margin: 12px;
+    display: inline-block;
+}
+
+.scoreis {
+	background-color: white;
+	color: green;
+	width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
+#yourscore {
+	background-color: white;
+	color: green;
+	width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
